@@ -1,0 +1,8 @@
+[package]
+name = "scaffold-solana-app"
+version = "1.0.0"
+authors = ["Augustus Rivers <hello@offlabel.design>"]
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
